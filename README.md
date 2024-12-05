@@ -28,7 +28,6 @@ This course is ideal for aspiring MLOps professionals looking to enter the field
 * [Week 3: Introduction to Pandas and Numpy](#week-3-introduction-to-pandas-and-numpy)
 * [Week 4: Applied Python for MLOps](#week-4-applied-python-for-mlops)
 * [Week 5: Buffer week](#week-5-buffer-week)
-
 </details>
 
 
